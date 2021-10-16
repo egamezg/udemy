@@ -1,6 +1,5 @@
 # This is the program that calls the module
 import module1
-import camelcase
 # We can import an entire module, or only specific funcionts as "from"
 from module1 import despedirse
 
