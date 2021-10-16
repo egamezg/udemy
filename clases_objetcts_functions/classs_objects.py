@@ -1,4 +1,4 @@
-# Class/Constructor that has properties
+# Class/Constructor that has properties or attributes
 class ClaseSilla:
     color = "blanco"
     precio  = 100
