@@ -1,0 +1,2 @@
+Primer texto al grabar
+Segunda linea al hacer append

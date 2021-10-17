@@ -1,0 +1,3 @@
+Esto es un fichero de texto
+Y tiene dos lineas
+Esta linea se ha de añadir al fichero
